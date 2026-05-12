@@ -1,0 +1,18 @@
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto_C_.Form1.resources
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.csproj.GenerateResource.cache
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.AssemblyInfoInputs.cache
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.AssemblyInfo.cs
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.csproj.CoreCompileInputs.cache
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\Progetto C#.exe
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\Progetto C#.deps.json
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\Progetto C#.runtimeconfig.json
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\Progetto C#.dll
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\Progetto C#.pdb
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.dll
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\refint\Progetto C#.dll
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.pdb
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.genruntimeconfig.cache
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\ref\Progetto C#.dll
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\bin\Debug\net8.0-windows\template.html
+C:\Users\kuznietsov.23181\Desktop\Progetto C#\Progetto C#\Progetto C#\obj\Debug\net8.0-windows\Progetto C#.sourcelink.json
